@@ -93,7 +93,7 @@ Ethical security activities are performed only within authorized learning enviro
 
 ---
 
-## 🎓 Learning Platform
+## Learning Platform
 
 [TryHackMe](https://tryhackme.com/path/outline/presecurity)
 
